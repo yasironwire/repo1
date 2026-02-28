@@ -1,3 +1,5 @@
 File 1
 
 Adding another line.
+
+Practicing Git Diff commands.
